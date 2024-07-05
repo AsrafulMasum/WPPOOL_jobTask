@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Nantes';
+    src: local('Nantes Regular'), local('Nantes-Regular'),
+        url('Nantes-Regular.woff2') format('woff2'),
+        url('Nantes-Regular.woff') format('woff'),
+        url('Nantes-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  *{
+    font-family: 'Nantes';
+    font-weight: 400;
+    font-style: normal;
+    margin: 0;
+    padding: 0;
+  }
